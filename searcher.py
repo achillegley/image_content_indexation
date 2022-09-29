@@ -1,4 +1,3 @@
-from lshash import *
 import pickle
 import cv2 as cv
 import os
