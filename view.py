@@ -1,14 +1,8 @@
 import streamlit as st
 import os
 from PIL import Image
-import numpy as np
 import pandas as pd
-import pickle
-import tensorflow
-from sklearn.neighbors import NearestNeighbors
 import searcher
-from numpy.linalg import norm
-import cv2
 
 st.title('POSTE DE CADASTRE')
 
